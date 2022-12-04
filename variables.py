@@ -1,3 +1,5 @@
+# Variables = a container for a value. Behaves as the value it contains
+
 #last_name = ("code")
 #full_name = first_name +" "+ last_name
 #print (full_name)
