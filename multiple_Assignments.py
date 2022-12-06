@@ -10,3 +10,11 @@ print(attractive)
 #print (name)
 #print (age)
 #print (attractive)
+
+--
+
+# Update
+Mustang = Camaro = Charger = 40
+print(Mustang)
+print(Camaro)
+print(Charger)
