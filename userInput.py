@@ -5,3 +5,13 @@ height = float(input("How tall are you?: "))
 print("Hello "+name)
 print("You are "+str(age)+" years old")
 print("You're "+str(height)+ "ft tall")
+
+--
+# Update
+
+car = input("Welcome, what type of car do you drive? ")
+print("WOW! thats a nice "+car)
+price = float(input("How much did it cost? "))
+print("Darn "+str(price)+"?")
+horsepower = int(input("About whats the average power for this model? "))
+print(str(horsepower)+" horses! ")
