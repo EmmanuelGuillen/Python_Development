@@ -10,3 +10,10 @@ name = ("Manny")
 #print(name.count("n"))
 #print(name.replace("a" , "o"))
 #print(name*3)
+
+--
+
+# Update on simple ways to find certain characteristics within your string
+
+car = ("Shelby")
+# print(Shelby.capitalize()) == SHELBY // print(Shelby.find("S") == 0
