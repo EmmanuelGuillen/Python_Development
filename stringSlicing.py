@@ -1,4 +1,5 @@
 name = "Manny Alvarez"
+
 #indexing
 #To start can leave blank (will assume 0) and to end you can leave blank (will assume end)
 
@@ -14,7 +15,7 @@ name = "Manny Alvarez"
 #reversed_name = name[::-1] - [0:end:-1]
 #print(reversed_name)
 
-####slicing
+## slicing = create a substring by extracting elements from another string ##
 
 website1 = "http://google.com"
 website2 = "http://wikipedia.com"
