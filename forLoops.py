@@ -1,3 +1,6 @@
+# for loop = a statement that will execute its block of code a limited amount of times
+# while loop = unlimited , for loop = limited
+
 import time
 #for i in range(10):
 #    print(i+1)
