@@ -1,3 +1,6 @@
+# while loop = a statement that will execute its block of code as long as its condition remains true
+#          2 different ways to do the same code
+
 #while 1==1:                (Infinite loop!)
 #    print("Help im stuck in a loop!")
 
