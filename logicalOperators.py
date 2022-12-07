@@ -1,3 +1,5 @@
+# logical operators (and,or,not) = used to check if two or more conditional statements are true
+
 temp = int(input("What is the temperature today?: "))
 
 #if temp >= 0 and temp <= 30:
